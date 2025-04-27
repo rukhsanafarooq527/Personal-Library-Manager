@@ -33,7 +33,7 @@ def set_custom_theme():
             background-color: #344e41 !important;
         }
         .stTextInput input, .stNumberInput input, .stTextArea textarea {
-            background-color: #d4a373 !important;
+            background-color: #76A275 !important;
             color: #000000 !important;
             border-radius: 5px;
             padding: 5px;
